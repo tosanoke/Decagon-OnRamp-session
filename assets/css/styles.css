@@ -32,6 +32,8 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
     gap: 2rem;
     
+    
+    
 
 }
 
@@ -115,5 +117,10 @@ a {
         font-size: 3.6rem;
         line-height: 4.2rem;
         text-align: center;
+      }
+
+      .leader-content-ctn{
+        margin: auto auto;
+        width: 80%;
       }
     }
